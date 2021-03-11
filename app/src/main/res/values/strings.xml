@@ -18,4 +18,7 @@
     <string name="two_frame">TWO</string>
 
     <string name="click_image">CLICK</string>
+
+    <string name="main_intent">MAIN</string>
+    <string name="back_intent">BACK</string>
 </resources>
