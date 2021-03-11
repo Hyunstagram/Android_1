@@ -29,4 +29,12 @@
     <string name="add_address">ADD</string>
     <string name="delete_address">DEL</string>
     <string name="nothing_address">NOTHING</string>
+
+    <string name="left_constraint">CLICK</string>
+    <string name="msg__constraint">MESSAGE</string>
+    <string name="red_constraint">RED</string>
+    <string name="blue_constraint">BLUE</string>
+    <string name="check_constraint">check item</string>
+    <string name="title_constraint">[ Select Color ]</string>
+    <string name="enter_constraint">Enter name</string>
 </resources>
