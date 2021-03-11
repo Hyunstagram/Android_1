@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">part_1</string>
+    <string name="todo">TODO</string>
 
     <string name="title_join">Join Us</string>
     <string name="id_join">ID</string>
@@ -8,4 +9,8 @@
     <string name="title_event">Button Event</string>
     <string name="black_event">BLACK</string>
     <string name="white_event">WHITE</string>
+
+    <string name="name_relative">KANG A HYUN</string>
+    <string name="date_relative">2021-03-04</string>
+    <string name="content_relative">Hi</string>
 </resources>
