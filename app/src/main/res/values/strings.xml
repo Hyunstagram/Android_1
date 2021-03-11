@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">exercises</string>
+    <string name="title_join">Join Us</string>
+    <string name="id_join">ID</string>
+    <string name="password_join">PASSWORD</string>
+</resources>
