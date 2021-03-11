@@ -1,6 +1,11 @@
 <resources>
-    <string name="app_name">exercises</string>
+    <string name="app_name">part_1</string>
+
     <string name="title_join">Join Us</string>
     <string name="id_join">ID</string>
     <string name="password_join">PASSWORD</string>
+
+    <string name="title_event">Button Event</string>
+    <string name="black_event">BLACK</string>
+    <string name="white_event">WHITE</string>
 </resources>
