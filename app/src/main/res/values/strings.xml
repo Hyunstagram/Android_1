@@ -13,4 +13,7 @@
     <string name="name_relative">KANG A HYUN</string>
     <string name="date_relative">2021-03-04</string>
     <string name="content_relative">Hi</string>
+
+    <string name="one_frame">ONE</string>
+    <string name="two_frame">TWO</string>
 </resources>
