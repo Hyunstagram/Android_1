@@ -21,4 +21,12 @@
 
     <string name="main_intent">MAIN</string>
     <string name="back_intent">BACK</string>
+
+    <string name="title_address">Address Book</string>
+    <string name="name_address">NAME</string>
+    <string name="phone_address">PHONE</string>
+    <string name="email_address">EMAIL</string>
+    <string name="add_address">ADD</string>
+    <string name="delete_address">DEL</string>
+    <string name="nothing_address">NOTHING</string>
 </resources>
