@@ -16,4 +16,6 @@
 
     <string name="one_frame">ONE</string>
     <string name="two_frame">TWO</string>
+
+    <string name="click_image">CLICK</string>
 </resources>
